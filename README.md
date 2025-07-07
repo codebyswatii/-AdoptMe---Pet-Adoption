@@ -18,8 +18,6 @@ A simple, responsive webpage that promotes pet adoption. Built using **HTML** an
 
 ## 📸 Preview
 
-## 📸 Preview
-
 ![Screenshot of AdoptMe project](screenshot.png)
 
 
