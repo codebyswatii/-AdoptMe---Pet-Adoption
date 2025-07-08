@@ -37,5 +37,5 @@ If you have suggestions or feedback, feel free to reach out or open an issue.
 
 ---
 
-👩‍💻 Built with 💙 by [Swati Thakur](https://github.com/codebyswati)
+👩‍💻 Built with 💙 by [Swati Thakur](https://github.com/codebyswatii)
 
